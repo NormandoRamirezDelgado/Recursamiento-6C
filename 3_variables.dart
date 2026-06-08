@@ -51,7 +51,4 @@ void main(List<String> args) {
   print(nombrestudiante);
   print(EDADMINIMA);
 
-
-
-
 }
